@@ -1,0 +1,35 @@
+p{
+    font-family: Arial;
+}
+
+.thumbnail, .thumbnail1{
+width: 300px;
+}
+
+.search{
+font-size: 20px ;
+margin-left: 12px ;
+margin-bottom: 30px;
+}
+
+.title1, .title2{
+    font-weight: bold;
+    width: 300px;
+}
+.title1a, .title2a{
+color: rgb(75, 75, 75);
+margin-bottom: 0;
+
+}
+.title1b, .title2b{
+    color: rgb(75, 75, 75);
+    margin-top:5px;
+   
+    }
+
+    .preview1, .preview2{
+        display: inline-block;
+        vertical-align: top;
+        margin-right:15px;
+        
+    }
